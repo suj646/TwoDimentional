@@ -1,0 +1,16 @@
+F:\DOTNET\TwoDimensionalArrayAdd\TwoDimensionalArrayAdd\bin\Debug\net5.0\TwoDimensionalArrayAdd.exe
+F:\DOTNET\TwoDimensionalArrayAdd\TwoDimensionalArrayAdd\bin\Debug\net5.0\TwoDimensionalArrayAdd.deps.json
+F:\DOTNET\TwoDimensionalArrayAdd\TwoDimensionalArrayAdd\bin\Debug\net5.0\TwoDimensionalArrayAdd.runtimeconfig.json
+F:\DOTNET\TwoDimensionalArrayAdd\TwoDimensionalArrayAdd\bin\Debug\net5.0\TwoDimensionalArrayAdd.runtimeconfig.dev.json
+F:\DOTNET\TwoDimensionalArrayAdd\TwoDimensionalArrayAdd\bin\Debug\net5.0\TwoDimensionalArrayAdd.dll
+F:\DOTNET\TwoDimensionalArrayAdd\TwoDimensionalArrayAdd\bin\Debug\net5.0\ref\TwoDimensionalArrayAdd.dll
+F:\DOTNET\TwoDimensionalArrayAdd\TwoDimensionalArrayAdd\bin\Debug\net5.0\TwoDimensionalArrayAdd.pdb
+F:\DOTNET\TwoDimensionalArrayAdd\TwoDimensionalArrayAdd\obj\Debug\net5.0\TwoDimensionalArrayAdd.csproj.AssemblyReference.cache
+F:\DOTNET\TwoDimensionalArrayAdd\TwoDimensionalArrayAdd\obj\Debug\net5.0\TwoDimensionalArrayAdd.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET\TwoDimensionalArrayAdd\TwoDimensionalArrayAdd\obj\Debug\net5.0\TwoDimensionalArrayAdd.AssemblyInfoInputs.cache
+F:\DOTNET\TwoDimensionalArrayAdd\TwoDimensionalArrayAdd\obj\Debug\net5.0\TwoDimensionalArrayAdd.AssemblyInfo.cs
+F:\DOTNET\TwoDimensionalArrayAdd\TwoDimensionalArrayAdd\obj\Debug\net5.0\TwoDimensionalArrayAdd.csproj.CoreCompileInputs.cache
+F:\DOTNET\TwoDimensionalArrayAdd\TwoDimensionalArrayAdd\obj\Debug\net5.0\TwoDimensionalArrayAdd.dll
+F:\DOTNET\TwoDimensionalArrayAdd\TwoDimensionalArrayAdd\obj\Debug\net5.0\ref\TwoDimensionalArrayAdd.dll
+F:\DOTNET\TwoDimensionalArrayAdd\TwoDimensionalArrayAdd\obj\Debug\net5.0\TwoDimensionalArrayAdd.pdb
+F:\DOTNET\TwoDimensionalArrayAdd\TwoDimensionalArrayAdd\obj\Debug\net5.0\TwoDimensionalArrayAdd.genruntimeconfig.cache
